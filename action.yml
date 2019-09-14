@@ -1,6 +1,10 @@
 # action.yml
 name: 'TestAction'
 description: 'Ignore me, I'm just to Test'
+branding:
+  icon: zap
+  color: blue
+inputs:
 runs:
   using: 'node10'
   main: 'index.js'
