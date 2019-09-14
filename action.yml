@@ -1,3 +1,4 @@
+# action.yml
 name: 'TestAction'
 description: 'Ignore me, I'm just to Test'
 runs:
