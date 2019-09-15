@@ -5,5 +5,5 @@ branding:
   icon: zap
   color: blue
 runs:
-  using: 'node10'
+  using: 'node12'
   main: 'index.js'
